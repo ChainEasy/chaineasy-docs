@@ -19,8 +19,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ChainEasy', // Usually your GitHub org/user name.
-  projectName: 'chaineasy.github.io/chaineasy-docs', // Usually your repo name.
-
+  projectName: 'chaineasy-docs', // Usually your repo name.
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
