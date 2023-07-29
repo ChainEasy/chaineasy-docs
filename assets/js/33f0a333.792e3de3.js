@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchaineasy_docs=self.webpackChunkchaineasy_docs||[]).push([[3617],{7282:s=>{s.exports=JSON.parse('{"permalink":"/chaineasy-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

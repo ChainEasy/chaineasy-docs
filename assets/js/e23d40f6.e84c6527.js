@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchaineasy_docs=self.webpackChunkchaineasy_docs||[]).push([[7055],{3181:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/chaineasy-docs/blog/tags/facebook","allTagsPath":"/chaineasy-docs/blog/tags","count":1}')}}]);

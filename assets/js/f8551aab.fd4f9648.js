@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchaineasy_docs=self.webpackChunkchaineasy_docs||[]).push([[1743],{8764:(e,a,n)=>{n.r(a),n.d(a,{default:()=>s});var t=n(6687),c=n(5529);function s(){return t.createElement(c.Z,null,t.createElement("h1",null,"My React page"),t.createElement("p",null,"This is a React page - Testing the new Docusaurus V2"))}}}]);
